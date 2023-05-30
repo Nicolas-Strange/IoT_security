@@ -1,0 +1,5 @@
+cryptography==40.0.2
+Flask==2.3.2
+gevent==22.10.2
+requests==2.31.0
+Werkzeug==2.3.4
