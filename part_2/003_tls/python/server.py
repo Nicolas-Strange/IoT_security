@@ -11,7 +11,7 @@ PORT = 38440
 
 @app.route("/logic", methods=["POST"])
 def logic():
-    return "Hello from the server"
+    return "200"
 
 
 if __name__ == '__main__':
